@@ -1,6 +1,6 @@
 # This is an auto generated Dockerfile for ros:ros-base
 # generated from docker_images/create_ros_image.Dockerfile.em
-FROM ros:kinetic-ros-base-xenial
+FROM tensorflow/tensorflow::kinetic-ros-base-xenial
 
 
 
